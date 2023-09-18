@@ -1,7 +1,7 @@
 <template>
 	<div class="body" ref="container">
 		<Head>
-			<Title>NuxtProxy</Title>
+			<Title>Nova app V3</Title>
 		</Head>
 		<div class="navbar" id="navbar">
 			<button @click="fullScreen" id="fullscreen">
