@@ -1,7 +1,7 @@
 <template>
 	<div class="body" ref="container">
 		<Head>
-			<Title>NuxtProxy</Title>
+			<Title>Nova V1</Title>
 		</Head>
 		<div class="navbar" id="navbar">
 			<button @click="fullScreen" id="fullscreen">
@@ -18,9 +18,9 @@
 			<button @click="close">X</button>
 		</div>
 		<div id="homeContainer">
-			<h1>NuxtProxy</h1>
+			<h1>Nova V1</h1>
 			<form @submit.prevent="submitForm">
-				<input v-model="query" placeholder="Search Now" />
+				<input v-model="query" placeholder="Explore the web free!" />
 			</form>
 		</div>
 		<div class="center" id="loading">
@@ -44,7 +44,7 @@ export default {
 		return {
 			query: "",
 			prefix: "/~/",
-			title: "Loading...",
+			title: "When loading you can always follow my tiktok ohwi...",
 		};
 	},
 	created() {
