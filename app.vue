@@ -17,6 +17,7 @@
 			<h1>{{ title }}</h1>
 			<button @click="close">X</button>
 		</div>
+		     <a href="credits.html">Credits</a>
 		<div id="homeContainer">
 			<h1>Nova V1</h1>
 			<form @submit.prevent="submitForm">
