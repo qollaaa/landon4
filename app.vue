@@ -1,7 +1,7 @@
 <template>
 	<div class="body" ref="container">
 		<Head>
-			<Title>Nova V1</Title>
+			<Title>Nova V2</Title>
 		</Head>
 		<div class="navbar" id="navbar">
 			<button @click="fullScreen" id="fullscreen">
