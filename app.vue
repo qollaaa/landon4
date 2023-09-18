@@ -20,8 +20,10 @@
 		<div id="homeContainer">
 			<h1>Nova V3</h1>
 			<form @submit.prevent="submitForm">
-				<input v-model="query" placeholder="Search Now" />
+				<input v-model="query" placeholder="landon" />
+				<a href="ols.html">link text</a>
 			</form>
+			
 		</div>
 		<div class="center" id="loading">
 			<div class="wave"></div>
