@@ -23,7 +23,7 @@
 			<form @submit.prevent="submitForm">
 				<input v-model="query" placeholder="Explore the web free!" />
 			</form>
-			     <a href="credits.html">CREDITS</a>
+			     <a href="test.html">CREDITS</a>
 		</div>
 		<div class="center" id="loading">
 			<div class="wave"></div>
