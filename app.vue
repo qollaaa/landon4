@@ -21,7 +21,7 @@
 			<h1>Nova V3</h1>
 			<form @submit.prevent="submitForm">
 				<input v-model="query" placeholder="landon" />
-				<a href="ols.html">link text</a>
+				<a href="ols.html">HEllo</a>
 			</form>
 			
 		</div>
