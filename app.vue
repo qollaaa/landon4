@@ -23,7 +23,27 @@
 				<input v-model="query" placeholder="landon" />
 				<a href="ols.html">HEllo</a>
 			</form>
-			
+			<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+a.GeneratedLink:link {
+font-size:40px;text-decoration:none;color:#006600;background-color:#CCFF00;
+}
+a.GeneratedLink:visited {
+color:#009900;
+}
+a.GeneratedLink:hover {
+color:#99CC00;
+}
+a.GeneratedLink:active {
+color:#FF9900;
+}
+</style>
+
+<!-- HTML Code -->
+<a class="GeneratedLink" href="tiktok.com" target="_blank">sld</a>
+
 		</div>
 		<div class="center" id="loading">
 			<div class="wave"></div>
