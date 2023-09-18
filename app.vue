@@ -17,13 +17,13 @@
 			<h1>{{ title }}</h1>
 			<button @click="close">X</button>
 		</div>
-		     <a href="credits.html">Credits</a>
+		    follow my tiktok @ohwi</a>
 		<div id="homeContainer">
 			<h1>Nova V1</h1>
 			<form @submit.prevent="submitForm">
 				<input v-model="query" placeholder="Explore the web free!" />
 			</form>
-			     <a href="test.html">CREDITS</a>
+			    
 		</div>
 		<div class="center" id="loading">
 			<div class="wave"></div>
